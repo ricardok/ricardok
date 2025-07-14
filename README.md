@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![image](https://github.com/user-attachments/assets/e5c8a15b-cccd-45db-bfd9-727188017740)
 <!--
 **ricardok/ricardok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
